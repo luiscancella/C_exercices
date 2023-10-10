@@ -1,0 +1,19 @@
+Teste 1
+Input:
+"luis fernando"
+Output:
+"
+Input a string: luis fernando
+Number of vowels : 5
+Number of consonants : 8
+"
+
+Teste 2
+Input:
+"esse e um teste"
+Output:
+"
+Input a string: esse e um teste
+Number of vowels : 6
+Number of consonants : 9
+"

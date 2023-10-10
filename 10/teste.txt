@@ -1,0 +1,16 @@
+Teste 1
+Input:
+"testando algo"
+Output:
+Input a string : testando algo
+The length of the given string testando algo
+is : 13
+
+Teste 2
+Input:
+exerc verde1
+
+Output:
+Input a string : exerc verde1
+The length of the given string exerc verde1
+is : 12

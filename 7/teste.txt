@@ -1,0 +1,23 @@
+Teste 1
+Input:
+4
+12
+7
+3
+0
+Output:
+The elements you entered are : 
+element - 0 : 12
+element - 1 : 7
+element - 2 : 3
+element - 3 : 0
+
+Teste 2
+Input:
+2
+54
+1
+Output:
+The elements you entered are : 
+element - 0 : 54
+element - 1 : 1

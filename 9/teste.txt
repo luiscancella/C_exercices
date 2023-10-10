@@ -1,0 +1,19 @@
+Teste 1
+Input:
+6
+2
+14
+92
+32
+44
+0
+Output:
+The Largest element is :  92.00
+
+Teste 2
+Input:
+-10
+-5
+-1
+Output:
+The Largest element is :  -1.00

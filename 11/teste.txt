@@ -1,0 +1,35 @@
+Teste 1
+Input:
+7
+1
+9
+Output:
+"
+The value before swapping are :
+element 1 = 7
+element 2 = 1
+element 3 = 9
+
+The value after swapping are :
+element 1 = 9
+element 2 = 7
+element 3 = 1
+'
+
+Teste 2
+Input:
+0
+-3
+2
+Output:
+"
+The value before swapping are :
+element 1 = 0
+element 2 = -3
+element 3 = 2
+
+The value after swapping are :
+element 1 = 2
+element 2 = 0
+element 3 = -3
+"

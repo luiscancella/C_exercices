@@ -1,0 +1,13 @@
+Teste 1
+Input:
+2
+4
+Output:
+3 is the maximum number.
+
+Teste 2
+Input:
+101
+52
+Output:
+101 is the maximum number.
